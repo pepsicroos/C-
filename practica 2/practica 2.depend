@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1601267134 source:d:\rafa\seminario de estructura de datos\practica 2\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+

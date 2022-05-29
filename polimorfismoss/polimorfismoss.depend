@@ -1,0 +1,45 @@
+# depslib dependency file v1.0
+1605118711 source:d:\rafa\seminario de estructura de datos\polimorfismoss\main.cpp
+	<iostream>
+	"CLista.h"
+	"CNodo.h"
+	"CAuto.h"
+	"menu.h"
+	"CPatrulla.h"
+	"CTaxi.h"
+	"CToretto.h"
+	"CBlindada.h"
+
+1605118679 d:\rafa\seminario de estructura de datos\polimorfismoss\clista.h
+	"CMotor.h"
+	"CAuto.h"
+	"CPatrulla.h"
+	"CTaxi.h"
+	"CToretto.h"
+	"CBlindada.h"
+	<iostream>
+	"Cnodo.h"
+
+1605114863 d:\rafa\seminario de estructura de datos\polimorfismoss\cnodo.h
+	"CAuto.h"
+
+1604982708 d:\rafa\seminario de estructura de datos\polimorfismoss\cmotor.h
+
+1605117043 d:\rafa\seminario de estructura de datos\polimorfismoss\cauto.h
+	"menu.h"
+
+1605062310 d:\rafa\seminario de estructura de datos\polimorfismoss\menu.h
+
+1605118018 d:\rafa\seminario de estructura de datos\polimorfismoss\cpatrulla.h
+	"CAuto.h"
+
+1605118418 d:\rafa\seminario de estructura de datos\polimorfismoss\ctaxi.h
+	<iostream>
+	"CAuto.h"
+
+1605119388 d:\rafa\seminario de estructura de datos\polimorfismoss\ctoretto.h
+	<iostream>
+
+1605117870 d:\rafa\seminario de estructura de datos\polimorfismoss\cblindada.h
+	"CAuto.h"
+

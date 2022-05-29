@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1604610327 source:d:\rafa\seminario de estructura de datos\practica herencias\main.cpp
+	<iostream>
+	"CAuto.h"
+	"CPatrulla.h"
+	"CToretto.h"
+	"CTaxi.h"
+	"CBlindada.h"
+	"Menu.h"
+
+1604609904 d:\rafa\seminario de estructura de datos\practica herencias\cauto.h
+	"CMotor.h"
+	<iostream>
+	<string>
+
+1604616625 d:\rafa\seminario de estructura de datos\practica herencias\cmotor.h
+	<iostream>
+	<string>
+
+1606880201 d:\rafa\seminario de estructura de datos\practica herencias\cpatrulla.h
+
+1604601228 d:\rafa\seminario de estructura de datos\practica herencias\ctoretto.h
+	<iostream>
+
+1604610371 d:\rafa\seminario de estructura de datos\practica herencias\ctaxi.h
+	<iostream>
+
+1604603125 d:\rafa\seminario de estructura de datos\practica herencias\cblindada.h
+
+1604606840 d:\rafa\seminario de estructura de datos\practica herencias\menu.h
+

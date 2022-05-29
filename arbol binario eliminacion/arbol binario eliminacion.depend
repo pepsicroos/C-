@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605923678 source:d:\rafa\seminario de estructura de datos\arbol binario eliminacion\btnodo.cpp
+	<iostream>
+	"BTnodo.h"
+
+1605923254 d:\rafa\seminario de estructura de datos\arbol binario eliminacion\btnodo.h
+
+1606433921 source:d:\rafa\seminario de estructura de datos\arbol binario eliminacion\carbol.cpp
+	<iostream>
+	"Carbol.h"
+
+1606284233 d:\rafa\seminario de estructura de datos\arbol binario eliminacion\carbol.h
+	"BTnodo.h"
+
+1606422425 source:d:\rafa\seminario de estructura de datos\arbol binario eliminacion\main.cpp
+	<iostream>
+	"BTnodo.h"
+	"Carbol.h"
+

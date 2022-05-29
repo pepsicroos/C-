@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1605641602 source:d:\rafa\seminario de estructura de datos\tda\main.cpp
+	<iostream>
+	"pilaocola.h"
+	"CPila.h"
+	"stack.h"
+	"queue.h"
+	"CCola.h"
+
+1605667158 d:\rafa\seminario de estructura de datos\tda\pilaocola.h
+
+1605641106 source:d:\rafa\seminario de estructura de datos\tda\clista.cpp
+	<iostream>
+	"CLista.h"
+
+1603855416 d:\rafa\seminario de estructura de datos\tda\clista.h
+	"Cnodo.h"
+
+1603993456 d:\rafa\seminario de estructura de datos\tda\cnodo.h
+
+1605635170 source:d:\rafa\seminario de estructura de datos\tda\cnodo.cpp
+	"Cnodo.h"
+	<iostream>
+
+1605641517 source:d:\rafa\seminario de estructura de datos\tda\queue.cpp
+	"queue.h"
+
+1605579683 d:\rafa\seminario de estructura de datos\tda\queue.h
+	"CLista.h"
+	"pilaocola.h"
+	<string>
+
+1605639957 source:d:\rafa\seminario de estructura de datos\tda\stack.cpp
+	"stack.h"
+
+1605667155 d:\rafa\seminario de estructura de datos\tda\stack.h
+	"CLista.h"
+	"pilaocola.h"
+
+1605656266 source:d:\rafa\seminario de estructura de datos\tda\ccola.cpp
+	<iostream>
+	"CCola.h"
+
+1605667157 d:\rafa\seminario de estructura de datos\tda\ccola.h
+	"pilaocola.h"
+
+1605586931 source:d:\rafa\seminario de estructura de datos\tda\cpila.cpp
+	<iostream>
+	"CPila.h"
+
+1605667157 d:\rafa\seminario de estructura de datos\tda\cpila.h
+	"pilaocola.h"
+

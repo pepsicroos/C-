@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1606849849 source:d:\rafa\seminario de estructura de datos\akinator\btnodo.cpp
+	<iostream>
+	"BTnodo.h"
+
+1606849832 d:\rafa\seminario de estructura de datos\akinator\btnodo.h
+
+1606849853 source:d:\rafa\seminario de estructura de datos\akinator\carbol.cpp
+	<iostream>
+	"Carbol.h"
+
+1606849894 d:\rafa\seminario de estructura de datos\akinator\carbol.h
+	"BTnodo.h"
+
+1607059016 source:d:\rafa\seminario de estructura de datos\akinator\main.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	"Arbol.h"
+
+1607059176 source:d:\rafa\seminario de estructura de datos\akinator\arbol.cpp
+	<iostream>
+	<conio.h>
+	<fstream>
+	"Arbol.h"
+
+1607014631 d:\rafa\seminario de estructura de datos\akinator\arbol.h
+	<iostream>
+	<conio.h>
+	<fstream>
+

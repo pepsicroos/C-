@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1603314047 source:d:\rafa\seminario de estructura de datos\practica 7\clista.cpp
+	<iostream>
+	"CLista.h"
+
+1603855416 d:\rafa\seminario de estructura de datos\practica 7\clista.h
+	"Cnodo.h"
+
+1603993456 d:\rafa\seminario de estructura de datos\practica 7\cnodo.h
+
+1603238673 source:d:\rafa\seminario de estructura de datos\practica 7\cnodo.cpp
+	"Cnodo.h"
+	<iostream>
+
+1603944103 source:d:\rafa\seminario de estructura de datos\practica 7\main.cpp
+	<iostream>
+	"stack.h"
+	"queue.h"
+
+1603945734 d:\rafa\seminario de estructura de datos\practica 7\stack.h
+	"CLista.h"
+
+1603943895 d:\rafa\seminario de estructura de datos\practica 7\queue.h
+	"CLista.h"
+	<string>
+
+1603997936 source:d:\rafa\seminario de estructura de datos\practica 7\stack.cpp
+	"stack.h"
+
+1603943847 source:d:\rafa\seminario de estructura de datos\practica 7\queue.cpp
+	"queue.h"
+

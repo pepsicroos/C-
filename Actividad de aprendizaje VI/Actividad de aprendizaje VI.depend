@@ -1,0 +1,46 @@
+# depslib dependency file v1.0
+1604692603 source:d:\rafa\seminario de estructura de datos\actividad de aprendizaje vi\cancion.cpp
+	"cancion.h"
+	<string>
+	<iostream>
+	<cstring>
+
+1604693477 d:\rafa\seminario de estructura de datos\actividad de aprendizaje vi\cancion.h
+	<iostream>
+	<string>
+	<cstring>
+
+1603557897 source:d:\rafa\seminario de estructura de datos\actividad de aprendizaje vi\main.cpp
+	<iostream>
+	<random>
+	<chrono>
+	<functional>
+	"menu.h"
+	"lista.h"
+
+1604693061 d:\rafa\seminario de estructura de datos\actividad de aprendizaje vi\lista.h
+	<cstdlib>
+	<string>
+	<iostream>
+	"cancion.h"
+	"sortbyAuthor.h"
+	"listexception.h"
+
+1601581078 d:\rafa\seminario de estructura de datos\actividad de aprendizaje vi\listexception.h
+	<exception>
+	<string>
+
+1604691970 source:d:\rafa\seminario de estructura de datos\actividad de aprendizaje vi\lista.cpp
+	"lista.h"
+
+1603488989 d:\rafa\seminario de estructura de datos\actividad de aprendizaje vi\sortbyauthor.h
+	"cancion.h"
+
+1603488361 source:d:\rafa\seminario de estructura de datos\actividad de aprendizaje vi\sortbyauthor.cpp
+	"sortbyAuthor.h"
+	<string>
+	<iostream>
+
+1603493600 d:\rafa\seminario de estructura de datos\actividad de aprendizaje vi\menu.h
+	<iostream>
+

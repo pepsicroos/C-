@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1604978333 source:d:\rafa\seminario de estructura de datos\polimorfismo\cnodo.cpp
+	"Cnodo.h"
+	<iostream>
+
+1604979619 d:\rafa\seminario de estructura de datos\polimorfismo\cnodo.h
+	<iostream>
+
+1604978346 source:d:\rafa\seminario de estructura de datos\polimorfismo\main.cpp
+	<iostream>
+	"CAuto.h"
+
+1604978204 source:d:\rafa\seminario de estructura de datos\polimorfismo\clista.cpp
+	<iostream>
+	"CLista.h"
+
+1603227133 d:\rafa\seminario de estructura de datos\polimorfismo\clista.h
+	"Cnodo.h"
+
+1604979529 d:\rafa\seminario de estructura de datos\polimorfismo\cauto.h
+	<iostream>
+	<string>
+
+1604978850 d:\rafa\seminario de estructura de datos\polimorfismo\cmotor.h
+	<iostream>
+	<string>
+

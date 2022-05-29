@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1605928060 source:d:\rafa\seminario de estructura de datos\arbol binario insercion\main.cpp
+	<iostream>
+	"BTnodo.h"
+	"Carbol.h"
+
+1605923254 d:\rafa\seminario de estructura de datos\arbol binario insercion\btnodo.h
+
+1605923678 source:d:\rafa\seminario de estructura de datos\arbol binario insercion\btnodo.cpp
+	<iostream>
+	"BTnodo.h"
+
+1605923478 source:d:\rafa\seminario de estructura de datos\arbol binario insercion\carbol.cpp
+	<iostream>
+	"Carbol.h"
+
+1605923302 d:\rafa\seminario de estructura de datos\arbol binario insercion\carbol.h
+	"BTnodo.h"
+

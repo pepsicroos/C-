@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1603252526 source:d:\rafa\seminario de estructura de datos\practica 4\main.cpp
+	<iostream>
+	"CLista.h"
+
+1603225655 d:\rafa\seminario de estructura de datos\practica 4\cnodo.h
+
+1605936944 source:d:\rafa\seminario de estructura de datos\practica 4\cnodo.cpp
+	"Cnodo.h"
+	<iostream>
+
+1603227133 d:\rafa\seminario de estructura de datos\practica 4\clista.h
+	"Cnodo.h"
+
+1605937124 source:d:\rafa\seminario de estructura de datos\practica 4\clista.cpp
+	<iostream>
+	"CLista.h"
+

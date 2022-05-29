@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1604458530 source:d:\rafa\seminario de estructura de datos\pilas y colas estaticas\main.cpp
+	<iostream>
+	"CPila.h"
+	"CCola.h"
+
+1604461748 d:\rafa\seminario de estructura de datos\pilas y colas estaticas\cpila.h
+
+1604458337 source:d:\rafa\seminario de estructura de datos\pilas y colas estaticas\cpila.cpp
+	<iostream>
+	"CPila.h"
+
+1604461636 d:\rafa\seminario de estructura de datos\pilas y colas estaticas\ccola.h
+
+1604458753 source:d:\rafa\seminario de estructura de datos\pilas y colas estaticas\ccola.cpp
+	<iostream>
+	"CCola.h"
+
